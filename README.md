@@ -38,9 +38,9 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 
 ## Contents
 
-WebVisualisations - contains all required pages
-Resources - contains cities.csv database
-Assets - contains  pngs of graphs
+* WebVisualisations - contains all required pages
+* Resources - contains cities.csv database
+* Assets - contains  pngs of graphs
 
 ### Output for Web Design Challenge
 
